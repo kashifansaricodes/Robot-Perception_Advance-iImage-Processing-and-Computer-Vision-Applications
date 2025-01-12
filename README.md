@@ -1,7 +1,13 @@
-Advanced Image Processing and Computer Vision Applications
+#Advanced Image Processing and Computer Vision Applications
 
 ## Overview
 This project explores various advanced computer vision and image processing techniques, including image enhancement, convolution analysis, and practical applications.
+
+![Screenshot from 2025-01-11 16-18-33](https://github.com/user-attachments/assets/68f25755-16be-4012-a530-80cef6dec384)
+
+
+![Screenshot from 2025-01-11 16-18-33](https://github.com/user-attachments/assets/8433a289-18c4-4649-8d04-e9ce8facfac6)
+
 
 ## Project Objectives
 1. Enhance images using color space transformations and other techniques.
