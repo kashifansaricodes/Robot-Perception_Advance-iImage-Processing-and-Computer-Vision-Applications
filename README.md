@@ -4,6 +4,8 @@
 
 This project explores various advanced computer vision and image processing techniques, including image enhancement, convolution analysis, and practical applications.
 
+---
+
 ![Screenshot from 2025-01-11 16-18-17](https://github.com/user-attachments/assets/eee21d47-ba12-46eb-b4e8-1b2e898f0dd7)
 
 ![Screenshot from 2025-01-11 16-18-33](https://github.com/user-attachments/assets/8433a289-18c4-4649-8d04-e9ce8facfac6)
